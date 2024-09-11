@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">prueba1</string>
+    <string name="titulo">suma de los numeros</string>
+    <string name="lbln1">ingresa el primer numero:</string>
+    <string name="lbln2">ingresa el segundo numero:</string>
+    <string name="hitn1"></string>
+    <string name="hitn2"></string>
+    <string name="ebtnsuma">calcula resultado</string>
+</resources>
